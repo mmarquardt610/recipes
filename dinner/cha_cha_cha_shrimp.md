@@ -5,7 +5,7 @@ source: https://www.epicurious.com/recipes/member/views/cha-cha-cha-cajun-shrimp
 ## YIELD
 2-4 People
 ## INGREDIENTS
-* 1 1/2 cup Cajun Spice Mix
+* 1/2 cup Cajun Spice Mix
 * 12 oz dark beer
 * 2 cups heavy cream
 * 1 lb peeled shrimp, medium
