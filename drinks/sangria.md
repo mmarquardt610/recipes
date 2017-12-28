@@ -1,5 +1,7 @@
 # Sangria
 
+source: http://www.foodandwine.com/recipes/red-sangria-cocktails-2012
+
 ## Ingredients
 * One 750-milliliter bottle fruity red wine, such as Merlot
 * 4 ounces brandy
