@@ -13,7 +13,7 @@ source: https://www.epicurious.com/recipes/member/views/cha-cha-cha-cajun-shrimp
 
 #### CAJUN SPICE MIX
 * 1/2 cup sweet paprika
-* 2 1/2 Tbs cayenne pepper
+* 2 Tbs cayenne pepper
 * 2 1/2 Tbs garlic powder
 * 1 1/2 Tbs ground black pepper
 * 1 1/2 Tbs ground white pepper
