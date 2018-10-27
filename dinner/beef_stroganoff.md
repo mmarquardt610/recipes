@@ -5,7 +5,7 @@ source: https://peasandcrayons.com/2018/08/mushroom-stroganoff.html
 * 8 oz extra-wide egg noodles
 * 2 TBSP olive oil or unsalted butter (divided in half)
 * 2 cups diced yellow onion
-* 12-16 oz fresh cremini mushrooms (also called baby portobello mushrooms)
+* 12-16 oz fresh cremini mushrooms
 * 3 cloves garlic, minced
 * 1/4-1/2 tsp dried thyme
 * 1/2 tsp salt
@@ -15,13 +15,10 @@ source: https://peasandcrayons.com/2018/08/mushroom-stroganoff.html
 * 2 TBSP all-purpose flour
 * 1/4 cup vegetable broth
 * 1/4 cup heavy cream
-* 2 TBSP sour cream
 * 2 TBSP chopped chives for topping
-* additional salt and pepper to taste
 
 ## OPTIONAL EXTRAS
 * 2-3 TBSP grated parmesan or mozzarella cheese for topping
-* 2-3 TBSP crushed crackers or breadcrumbs for tasty texture on top
 * 1/4 tsp crushed red pepper flakes
 
 # Instructions
@@ -34,6 +31,6 @@ Reduce heat to medium, then add the remaining oil/butter to the pan along with g
 
 Add sherry/wine and soy sauce. Whisk together and, once hot, whisk in your flour. The mixture will start to clump and thicken, then you'll add your veggie broth and heavy cream.
 
-Stir it all up then fold in your pasta and sour cream.
+Stir it all up then fold in your pasta.
 
-Garnish with chives (my favorite!) and any extras your heart desires. Dig in while it's hot!
+Garnish as desired. Dig in while it's hot!
