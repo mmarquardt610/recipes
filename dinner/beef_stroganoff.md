@@ -1,30 +1,30 @@
 source: https://peasandcrayons.com/2018/08/mushroom-stroganoff.html
 
-#Ingredients
+# Ingredients
 
-- 8 oz extra-wide egg noodles
-- 2 TBSP olive oil or unsalted butter (divided in half)
-- 2 cups diced yellow onion
-- 12-16 oz fresh cremini mushrooms (also called baby portobello mushrooms)
-- 3 cloves garlic, minced
-- 1/4-1/2 tsp dried thyme
-- 1/2 tsp salt
-- 1/4 tsp black pepper
-- 1/2 cup sherry or dry white wine
-- 1/2 TBSP soy sauce
-- 2 TBSP all-purpose flour
-- 1/4 cup vegetable broth
-- 1/4 cup heavy cream
-- 2 TBSP sour cream
-- 2 TBSP chopped chives for topping
-- additional salt and pepper to taste
+* 8 oz extra-wide egg noodles
+* 2 TBSP olive oil or unsalted butter (divided in half)
+* 2 cups diced yellow onion
+* 12-16 oz fresh cremini mushrooms (also called baby portobello mushrooms)
+* 3 cloves garlic, minced
+* 1/4-1/2 tsp dried thyme
+* 1/2 tsp salt
+* 1/4 tsp black pepper
+* 1/2 cup sherry or dry white wine
+* 1/2 TBSP soy sauce
+* 2 TBSP all-purpose flour
+* 1/4 cup vegetable broth
+* 1/4 cup heavy cream
+* 2 TBSP sour cream
+* 2 TBSP chopped chives for topping
+* additional salt and pepper to taste
 
-##OPTIONAL EXTRAS
-- 2-3 TBSP grated parmesan or mozzarella cheese for topping
-- 2-3 TBSP crushed crackers or breadcrumbs for tasty texture on top
-- 1/4 tsp crushed red pepper flakes
+## OPTIONAL EXTRAS
+* 2-3 TBSP grated parmesan or mozzarella cheese for topping
+* 2-3 TBSP crushed crackers or breadcrumbs for tasty texture on top
+* 1/4 tsp crushed red pepper flakes
 
-#Instructions
+# Instructions
 
 Bring a large pot of water to a boil and cook egg noodles according to package directions, approx. 8-10 minutes. While you wait, measure out all the ingredients above and start the veggies. This dish comes together crazy fast when you have everything ready to go!
 
