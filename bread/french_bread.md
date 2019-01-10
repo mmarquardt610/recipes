@@ -2,9 +2,10 @@
 
 Source: https://www.allrecipes.com/recipe/6882/french-bread/print/?recipeType=Recipe&servings=30&isMetric=false
 
-
 Prep: 25 minutes
+
 Cook: 40 minutes
+
 Read In: 2 hours, 40 minutes
 
 ## Ingredients
@@ -22,7 +23,7 @@ Read In: 2 hours, 40 minutes
 
 In a large bowl, combine 2 cups flour, yeast and salt. Stir in 2 cups warm water, and beat until well blended using a stand mixer with a dough hook attachment. Using a wooden spoon, stir in as much of the remaining flour as you can.
 
-On a lightly floured surface, knead in enough flour to make a stiff dough that is smooth and elastic. Knead for about 8 to 10 minutes total. Shape into a ball. Place dough in a greased bowl, and turn once. Cover, and let rise in a warm place until doubled.
+On a lightly floured surface, knead in enough flour to make a stiff dough that is smooth and elastic. Knead for about 8 to 10 minutes total. Shape into a ball. Place dough in a greased bowl, and turn once. Cover, and let rise in a warm place until doubled, about a half hour.
 
 Punch dough down, and divide in half. Turn out onto a lightly floured surface. Cover, and let rest for 10 minutes. Roll each half into large rectangle. Roll up, starting from a long side. Moisten edge with water and seal. Taper ends.
 
