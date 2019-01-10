@@ -8,7 +8,7 @@ Source: https://www.buzzfeed.com/alixtraeger/this-lighter-alfredo-sauce-is-made-
 * 1 head cauliflower florets
 * 1 cup milk
 * 2 tablespoons butter
-* 1 garlic clove
+* 3 garlic cloves (roasted garlic preferable)
 * 1 teaspoon salt
 * 1 teaspoon pepper
 * 1 pound pasta, cooked
