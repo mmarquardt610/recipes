@@ -3,7 +3,10 @@
 Source: https://cooking.nytimes.com/recipes/11376-no-knead-bread
 
 Yields: One 1 1/2-pound loaf
+
 Time: 1 hour 30 minutes, plus about 20 hours' resting time
+
+NOTE: Watch the video in the source link before making this bread!
 
 ## Ingredients
 
