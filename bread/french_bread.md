@@ -38,21 +38,27 @@ Read In: 2 hours, 40 minutes
 Unemployed with plenty of time on my hands, time to try the recipe for the first time! This was the original recipe, no modifications.
 
 This is the dough starting to rise after step 2:
+
 ![French bread before rise](/photos/french_bread_dough_before_rise.jpg)
 
 Here is the bread rising in step 4:
+
 ![French bread during second rise](/photos/french_bread_rising.jpg)
 
 The baked bread! Made a good noise when we hit it.
+
 ![French bread baked](/photos/french_bread_baked.jpg)
 
 And sliced:
+
 ![French bread sliced](/photos/french_bread_sliced.jpg)
 
 And our dog Riley, who now very much loves this bread:
+
 ![French bread sliced and riley](/photos/french_bread_sliced_with_riley.jpg)
 
 We paired this bread with tortellini and chicken in [Caulifredo Sauce](/dinner/caulifredo_sauce.md), artichokes, and gin martinis:
-![French bread meal](/photos/french_bread_meal.jpg)
+
+![French bread meal](/photos/french_bread_with_meal.jpg)
 
 
