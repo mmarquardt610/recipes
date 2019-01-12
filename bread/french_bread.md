@@ -61,4 +61,4 @@ We paired this bread with tortellini and chicken in [Caulifredo Sauce](/dinner/c
 
 ![French bread meal](/photos/french_bread_with_meal.jpg)
 
-
+This recipe made 2 loaves, so we ate one at dinner and the other was used for open face sandwiches and topped with grilled tomatoes the next day.
