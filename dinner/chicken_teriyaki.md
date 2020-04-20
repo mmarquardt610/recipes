@@ -3,22 +3,30 @@
 Source: https://thefoodiephysician.com/cook-once-eat-twice-chicken-teriyaki
 
 Prep Time: 5 mins
+
 Cook Time: 20 mins
+
 Total Time: 25 mins
+
 Course: Entree
+
 Cuisine: Asian
+
 Servings: 4
+
 Calories: 290 kcal
+
 Author: The Foodie Physician
 
 ## Ingredients
 
-* 2 tablespoons low sodium tamari (if gluten-free) or soy sauce
-* 2 tablespoons mirin
+* 2 tablespoons low sodium soy sauce
+* 2 tablespoons rice vinegar
+* 1 teaspoon sugar
 * 2 tablespoons sake
 * 2 tablespoons honey
 * 1 slice (1/4-inch thick) fresh ginger
-* 1 ½ pounds boneless, skinless chicken thighs, trimmed of fat
+* 1 1/2 pounds boneless, skinless chicken thighs, trimmed of fat
 * Salt and pepper
 * 1 tablespoon neutral-flavored oil like safflower, peanut or grapeseed
 * Sliced scallions and black sesame seeds for garnish (optional)
