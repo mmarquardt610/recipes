@@ -2,6 +2,15 @@
 
 source: https://damndelicious.net/2014/02/14/garlic-smashed-potatoes/
 
+PREP TIME:
+20 Minutes
+DIFFICULTY:
+Easy
+COOK TIME:
+10 Minutes
+SERVINGS:
+8 Servings
+
 ## INGREDIENTS:
 * 24 ounces Dutch yellow baby potatoes
 * 2 tablespoons olive oil
