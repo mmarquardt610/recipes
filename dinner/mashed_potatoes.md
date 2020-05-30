@@ -6,7 +6,7 @@ Source: https://thepioneerwoman.com/food-and-friends/how-to-make-mashed-potatoes
 
 * 4 pounds Russet Potatoes
 * 1 Tablespoon Salt
-* 4 Tablespoons Butter, Plus More For Serving
+* 1/2 cup Butter, Plus More For Serving
 * 1 Tablespoon Sour Cream
 * 1/2 cup Heavy Cream Or Milk
 * Freshly Ground Pepper, to taste
