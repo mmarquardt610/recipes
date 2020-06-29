@@ -1,8 +1,6 @@
----
 layout: page
 title: "Baingan Ka Bharta"
 categories: dinner indian
----
 
 # Baingan Ka Bharta (Indian Eggplant)
 
