@@ -9,6 +9,13 @@ layout: default
 
   {{ content }}
 
+  {%- if site.collections.size > 0 -%}
+    <ul>
+    {%- for category in site.collections -%}
+      <li> category </li>
+    {%- endfor -%}
+  {%- endif -%}
+
   {%- if site.posts.size > 0 -%}
     <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
     <ul class="post-list">
