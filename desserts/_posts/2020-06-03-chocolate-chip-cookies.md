@@ -1,9 +1,10 @@
-YIELD: 4 DOZEN COOKIES
-PREP TIME: 5 MINUTES
-COOK TIME: 10 MINUTES
-TOTAL TIME: 15 MINUTES
-
-Source: https://www.yummly.com/recipe/Classic-Chocolate-Chip-Cookies-2455312#directions
+---
+yield: 4 dozen cookies
+prep_time: 5 minutes
+cook_time: 10 minutes
+total_time: 15 minutes
+source: https://www.yummly.com/recipe/Classic-Chocolate-Chip-Cookies-2455312#directions
+---
 
 ## Ingredients
 

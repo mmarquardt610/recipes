@@ -1,20 +1,10 @@
-Source: https://thefoodiephysician.com/cook-once-eat-twice-chicken-teriyaki
-
-Prep Time: 5 mins
-
-Cook Time: 20 mins
-
-Total Time: 25 mins
-
-Course: Entree
-
-Cuisine: Asian
-
-Servings: 4
-
-Calories: 290 kcal
-
-Author: The Foodie Physician
+---
+source: https://thefoodiephysician.com/cook-once-eat-twice-chicken-teriyaki
+prep_time: 5 mins
+cook_time: 20 mins
+total_time: 25 mins
+yield: 4 servings
+---
 
 ## Ingredients
 

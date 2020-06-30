@@ -1,12 +1,9 @@
-Prep time
-15 mins
-Cook time
-45 mins
-Total time
-1 hour
- 
-Serves: 4-6
-
+---
+prep_time: 15 mins
+cook_time: 45 mins
+total_time: 1 hour
+serves: 4-6
+---
 
 ## Ingredients
 

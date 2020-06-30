@@ -1,6 +1,7 @@
-Source: https://www.theyummylife.com/Korean_Sticky_Chicken
-
-Servings: 4
+---
+source: https://www.theyummylife.com/Korean_Sticky_Chicken
+yield: 4 servings
+---
 
 ## Ingredients
 

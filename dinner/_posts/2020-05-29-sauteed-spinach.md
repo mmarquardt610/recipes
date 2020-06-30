@@ -1,8 +1,9 @@
-Prep Time 2 minutes
-Cook Time 5 minutes
-Total Time 7 minutes
-
-Source: https://www.yummly.com/recipe/Sauteed-Spinach-with-Garlic-2640458#directions
+---
+prep_time: 2 minutes
+cook_time: 5 minutes
+total_time: 7 minutes
+source: https://www.yummly.com/recipe/Sauteed-Spinach-with-Garlic-2640458#directions
+---
 
 ## Ingredients
 

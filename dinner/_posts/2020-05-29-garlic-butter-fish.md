@@ -1,11 +1,9 @@
-PREP TIME
-10 minutes
-COOK TIME
-10 minutes
-TOTAL TIME
-20 minutes
-
-Source: https://rasamalaysia.com/garlic-butter-fish
+---
+prep_time: 10 minutes
+cook_time: 10 minutes
+total_time: 20 minutes
+source: https://rasamalaysia.com/garlic-butter-fish
+---
 
 ## Ingredients
 * 12 oz. firm white fish fillet (halibut, cod or pollock fillet)

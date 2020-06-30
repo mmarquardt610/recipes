@@ -1,10 +1,8 @@
-Source: https://www.allrecipes.com/recipe/6882/french-bread/print/?recipeType=Recipe&servings=30&isMetric=false
-
-Prep: 25 minutes
-
-Cook: 40 minutes
-
-Read In: 2 hours, 40 minutes
+---
+source: https://www.allrecipes.com/recipe/6882/french-bread/print/?recipeType=Recipe&servings=30&isMetric=false
+prep_time: 25 minutes
+cook_time: 40 minutes
+---
 
 ## Ingredients
 

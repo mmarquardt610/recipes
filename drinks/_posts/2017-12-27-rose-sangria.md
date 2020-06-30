@@ -1,4 +1,6 @@
+---
 source: http://www.foodandwine.com/recipes/rose-sangria-mixed-berry-ice-ring
+---
 
 ## Ingredients
 * 1 cup blueberries

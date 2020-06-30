@@ -15,6 +15,34 @@ layout: default
       {%- endif -%}</p>
   </header>
 
+  <div>
+    <div>
+      {%- if page.prep_time -%}
+        Prep Time: {{ page.prep_time }}
+      {%- endif -%}
+    </div>
+    <div>
+      {%- if page.cook_time -%}
+        Cook Time: {{ page.cook_time }}
+      {%- endif -%}
+    </div>
+    <div>
+      {%- if page.prep_time -%}
+        Total Time: {{ page.total_time }}
+      {%- endif -%}
+    </div>
+    <div>
+      {%- if page.yield -%}
+        Yields: {{ page.yield }}
+      {%- endif -%}
+    </div>
+    <div>
+      {%- if page.source -%}
+        Source: {{ page.source }}
+      {%- endif -%}
+    </div>
+  </div>
+
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
   </div>

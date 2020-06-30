@@ -1,4 +1,6 @@
-Source: https://myheartbeets.com/baingan-ka-bharta-indian-eggplant
+---
+source: https://myheartbeets.com/baingan-ka-bharta-indian-eggplant
+---
 
 ## Ingredients
 

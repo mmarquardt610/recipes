@@ -1,7 +1,7 @@
+---
 source: https://www.epicurious.com/recipes/food/views/brussels-sprouts-chips-51230230
-
-## Yields
-Serves 4
+yield: serves 4
+---
 
 ## INGREDIENTS
 * 1 pound brussels sprouts

@@ -1,7 +1,8 @@
+---
 source: https://www.epicurious.com/recipes/member/views/cha-cha-cha-cajun-shrimp-50041610
+yield: 2-4 People
+---
 
-## YIELD
-2-4 People
 ## INGREDIENTS
 * 1/2 cup Cajun Spice Mix
 * 12 oz dark beer

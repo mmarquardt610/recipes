@@ -1,10 +1,8 @@
-Source: https://cooking.nytimes.com/recipes/11376-no-knead-bread
-
-Yields: One 1 1/2-pound loaf
-
-Time: 1 hour 30 minutes, plus about 20 hours' resting time
-
-NOTE: Watch the video in the source link before making this bread!
+---
+source: https://cooking.nytimes.com/recipes/11376-no-knead-bread
+yield: One 1 1/2-pound loaf
+time: 1 hour 30 minutes, plus about 20 hours' resting time
+---
 
 ## Ingredients
 
@@ -14,6 +12,8 @@ NOTE: Watch the video in the source link before making this bread!
 * Cornmeal or wheat bran as needed
 
 ## Instructions
+
+NOTE: Watch the video in the source link before making this bread!
 
 1. In a large bowl combine flour, yeast and salt. Add 1 5/8 cups water, and stir until blended; dough will be shaggy and sticky. Cover bowl with plastic wrap. Let dough rest at least 12 hours, preferably about 18, at warm room temperature, about 70 degrees.
 1. Dough is ready when its surface is dotted with bubbles. Lightly flour a work surface and place dough on it; sprinkle it with a little more flour and fold it over on itself once or twice. Cover loosely with plastic wrap and let rest about 15 minutes.
