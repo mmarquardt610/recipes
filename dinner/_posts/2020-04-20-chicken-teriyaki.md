@@ -1,5 +1,3 @@
-# Chicken Teriyaki
-
 Source: https://thefoodiephysician.com/cook-once-eat-twice-chicken-teriyaki
 
 Prep Time: 5 mins

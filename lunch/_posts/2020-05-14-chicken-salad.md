@@ -1,5 +1,3 @@
-# Chicken Salad
-
 ## Ingredients
 
 * 1 egg

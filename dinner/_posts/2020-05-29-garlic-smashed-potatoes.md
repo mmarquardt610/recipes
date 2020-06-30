@@ -1,5 +1,3 @@
-# Garlic Smashed Potatoes
-
 source: https://damndelicious.net/2014/02/14/garlic-smashed-potatoes/
 
 PREP TIME:

@@ -1,5 +1,3 @@
-# No Knead Bread
-
 Source: https://cooking.nytimes.com/recipes/11376-no-knead-bread
 
 Yields: One 1 1/2-pound loaf

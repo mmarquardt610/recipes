@@ -1,5 +1,3 @@
-# Tom Yum Soup
-
 source: http://comestibl.es/tom-yum-thai-soup
 
 ## Ingredients

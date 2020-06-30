@@ -1,5 +1,3 @@
-# Baingan Ka Bharta (Indian Eggplant)
-
 Source: https://myheartbeets.com/baingan-ka-bharta-indian-eggplant
 
 ## Ingredients

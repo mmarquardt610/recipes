@@ -1,5 +1,3 @@
-# Maple Ginger Pear Sauce
-
 source: http://www.momskitchenhandbook.com/snacks/the-giving-tree-maple-ginger-pear-sauce/
 
 ## Ingredients

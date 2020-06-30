@@ -1,5 +1,3 @@
-# French Bread
-
 Source: https://www.allrecipes.com/recipe/6882/french-bread/print/?recipeType=Recipe&servings=30&isMetric=false
 
 Prep: 25 minutes

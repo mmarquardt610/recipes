@@ -1,5 +1,3 @@
-# Garlic Butter Fish
-
 PREP TIME
 10 minutes
 COOK TIME

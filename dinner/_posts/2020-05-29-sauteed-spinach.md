@@ -1,5 +1,3 @@
-# Sautéed Spinach with Garlic
-
 Prep Time 2 minutes
 Cook Time 5 minutes
 Total Time 7 minutes

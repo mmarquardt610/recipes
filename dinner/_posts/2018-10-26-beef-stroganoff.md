@@ -1,5 +1,3 @@
-source: https://peasandcrayons.com/2018/08/mushroom-stroganoff.html
-
 # Ingredients
 
 * 1/2 lb lean ground beef

@@ -1,5 +1,3 @@
-# Rose Sangria with Mixed Berry Ice Ring
-
 source: http://www.foodandwine.com/recipes/rose-sangria-mixed-berry-ice-ring
 
 ## Ingredients

@@ -1,5 +1,3 @@
-# Cajun Shrimp from Cha Cha Cha
-
 source: https://www.epicurious.com/recipes/member/views/cha-cha-cha-cajun-shrimp-50041610
 
 ## YIELD

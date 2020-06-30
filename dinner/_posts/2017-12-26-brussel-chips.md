@@ -1,5 +1,3 @@
-# Brussel Sprout Chips
-
 source: https://www.epicurious.com/recipes/food/views/brussels-sprouts-chips-51230230
 
 ## Yields

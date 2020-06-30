@@ -1,5 +1,3 @@
-# Korean Sticky Chicken              
-
 Source: https://www.theyummylife.com/Korean_Sticky_Chicken
 
 Servings: 4

@@ -9,11 +9,19 @@ layout: default
 
   {{ content }}
 
-  {%- if site.collections.size > 0 -%}
+  {%- if site.categories.size > 0 -%}
     <ul>
-    {%- for category in site.collections -%}
-      <li> {{ category }} </li>
+    {%- for category in site.categories -%}
+      <li>
+        {{ category[0] }} ({{ category[1].size }} recipes) 
+        <br>
+        {%- for post in category.files -%}
+
+        {%- endfor -%}
+      </li>
+      
     {%- endfor -%}
+    </ul>
   {%- endif -%}
 
   {%- if site.posts.size > 0 -%}

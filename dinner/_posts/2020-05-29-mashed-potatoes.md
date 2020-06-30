@@ -1,5 +1,3 @@
-# Mashed Potatoes
-
 Source: https://thepioneerwoman.com/food-and-friends/how-to-make-mashed-potatoes
 
 ## Ingredients

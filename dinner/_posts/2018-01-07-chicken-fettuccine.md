@@ -1,5 +1,3 @@
-# Chicken Fettuccine
-
 ## Ingredients
 
 ### Chicken

@@ -1,5 +1,3 @@
-# Olive Oil Cake
-
 Prep time
 15 mins
 Cook time
