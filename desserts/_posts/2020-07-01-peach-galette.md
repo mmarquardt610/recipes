@@ -1,4 +1,8 @@
 ---
+prep_time: 45 minutes
+cook_time: 40 minutes
+total_time: 85 minutes
+yield: 8 servings
 source: https://www.yummly.com/recipe/Rustic-Peach-Tart-1353474#directions
 ---
 
