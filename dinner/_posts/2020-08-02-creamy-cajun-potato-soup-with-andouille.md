@@ -1,6 +1,7 @@
 ---
 servings: 6
 total_time: 30 minutes
+source: Cuisine 137
 ---
 
 * 12 oz. Cajun-style andouille (such as Aidells), sliced
