@@ -1,6 +1,7 @@
 ---
 servings: 4
 total_time: 45 minutes
+source: Cuisine, Issue 137, Page 69
 ---
 
 ## Ingredients
