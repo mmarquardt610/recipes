@@ -1,7 +1,7 @@
 ---
 servings: 6
 total_time: 30 minutes
-source: Cuisine 137
+source: Cuisine, Issue 137, Page 73
 ---
 
 ## Ingredients
